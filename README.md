@@ -1,16 +1,13 @@
-## Hi there 👋
+hi there 👋  
+i'm afsah — code, ideas, and caffeine keep me alive.
 
-<!--
-**gul-posh/gul-posh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💭 i exist somewhere between pure math proofs and poetic metaphors  
+🎯 current obsessions: olympiads, generative ai, epistemology  
+🕊️ diplomacy enthusiast — muns, model worlds, and real-world nuance  
+📚 writing words that feel like equations / equations that feel like poetry  
 
-Here are some ideas to get you started:
+🛠️ tech: python, sklearn, pandas, latex, markdown  
+🧠 trying to teach machines to reason and humans to wonder  
+🎓 chasing knowledge with reckless curiosity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “there’s elegance in equations and rebellion in literature.”
